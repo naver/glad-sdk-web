@@ -1,5 +1,5 @@
 ## 소개
-이 저장소는 [GLAD WEB SDK](http://github.com/naver/glad-sdk-web)에 대한 개발적인 문의사항 및 오류 리포팅을 위해 생성되었습니다.
+이 저장소는 [GLAD WEB SDK](https://naver.github.io/glad-sdk-guide/web_new/common/get_started/)에 대한 개발적인 문의사항 및 오류 리포팅을 위해 생성되었습니다.
 
 WEB SDK에 대한 문의사항은 이 저장소에 [이슈](http://github.com/naver/glad-sdk-web/issues)로 등록해주시면 됩니다.
 
