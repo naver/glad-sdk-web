@@ -1,6 +1,6 @@
 
 # SDK 저장소 변경 공지 (2022.07.11)
-**[GLAD WEBB SDK](https://github.com/naver/glad-sdk-web/) 저장소가 [NAM WEB SDK](https://github.com/naver/nam-sdk-web) 저장소로 통합 되었습니다.**
+**[GLAD WEB SDK](https://github.com/naver/glad-sdk-web/) 저장소가 [NAM WEB SDK](https://github.com/naver/nam-sdk-web) 저장소로 통합 되었습니다.**
 
 SDK 관련 문의사항 및 오류 리포팅은 아래 링크로 등록 부탁드립니다.
 - [가이드](https://naver.github.io/glad-sdk-guide/ko/web_new/common/get_started/)
